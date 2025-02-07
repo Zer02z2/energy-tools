@@ -4,4 +4,4 @@ This is a collection of energy-related tools/research/projects for the Energy cl
 
 ## Kinetic energy
 
-### Hand crank gear sets for DC motor
+### 1. [Hand crank gear sets for DC motor](./hand-crank-gears/)

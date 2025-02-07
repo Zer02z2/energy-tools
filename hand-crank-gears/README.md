@@ -16,7 +16,7 @@ The current version only fits a [TT DC motor](https://www.adafruit.com/product/3
 
 The dafult print setting on most printers should work, except that support or brim should be disabled as it might affect the fitting of the screws and threads.
 
-_If you are using ITP's printer, some parts might come out a little too tight. Try to print with the finest setting you can._
+:point*right:\_If you are using ITP's printer, some parts might come out a little too tight. Try to print with the finest setting you can.*
 
 Some reference for default print setting:
 

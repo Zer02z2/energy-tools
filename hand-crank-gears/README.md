@@ -12,7 +12,7 @@ The current version only fits a [TT DC motor](https://www.adafruit.com/product/3
 
 ### Print setting
 
-**IMPORTANT: Please don't use support or brim.**
+:warning:**IMPORTANT: Please don't use support or brim.**
 
 The dafult print setting on most printers should work, but please don't add support or brim as it might affect the fitting of the screws and threads.
 

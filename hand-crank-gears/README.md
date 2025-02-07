@@ -7,7 +7,7 @@ The current version only fits a [TT DC motor](https://www.adafruit.com/product/3
 
 ### File selection
 
-1. By default, you can just print the all-in-one.stl file. It contains all the components and is arranged and oriented properly.
+1. By default, you can just print the [all-in-one.stl](./all-in-one.stl) file. It contains all the components and is arranged and oriented properly.
 2. If you want to print individual parts, you may refer to the assembly guide below to choose the parts desired. The orientaion of each part is already configured to print without any support.
 
 ### Print setting

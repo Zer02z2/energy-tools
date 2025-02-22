@@ -1,7 +1,7 @@
 # Hand crank gear sets for DC motor
 
 The current version only fits a [TT DC motor](https://www.adafruit.com/product/3777). Supports for additional motors might be added in the future. You can also derive from the source model file and adapt it to your own design (Fusion 360).
-![A hand crank gear sets for TT dc motor](./images/assemble.jpg)
+![A hand crank gear sets for TT dc motor](../images/assemble.jpg)
 
 ## 3D printing instruction
 
@@ -27,4 +27,4 @@ Some reference for default print setting:
 
 ## Assembly
 
-![An assembly image for the hand crank gear set](./images/instruction.jpg)
+![An assembly image for the hand crank gear set](../images/instruction.jpg)

@@ -1,6 +1,7 @@
 # Single spinning handle for Stepper motor
 
 ![A spinning handle for stepper motor](../images/stepper-assemble.jpg)
+You can derive your own design from [stepper_handle_original.f3d](./stepper_handle_original.f3d) (Fusion 360).
 
 ## 3D printing instruction
 
